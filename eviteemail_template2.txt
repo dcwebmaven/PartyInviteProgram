@@ -1,0 +1,13 @@
+Dear #NAME#,<br/><br/>
+You are invited to a party!<br/>
+Details are below:<br/>
+
+<b>Event Title:  #SUBJECT#
+<br/><br/>
+<table>
+<tr><td width="100" align="right">Event Date: </td><td>March 17, 2015</td></tr>
+<tr><td width="100" align="right">Event Start Time: </td><td>7:00 p.m.</td></tr>
+<tr><td width="100" align="right">Event End Time: </td><td>9:00 p.m.</td></tr>
+</table>
+
+<br><br>
